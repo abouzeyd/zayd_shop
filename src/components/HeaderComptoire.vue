@@ -94,7 +94,7 @@ const props = defineProps({
   margin-left: auto;
   margin-right: auto;
   justify-content: space-between;
-  margin-top: 42px;
+  margin-top: 43px;
 }
 
 .image_recipe {
